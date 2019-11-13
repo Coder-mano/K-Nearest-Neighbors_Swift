@@ -2,8 +2,8 @@
 //  KNearestNeighborsClassifier.swift
 //
 //
-//  Created by Baptiste Rousseau on 26/5/17.
-//  Copyright © 2017 Rousseau. All rights reserved.
+//  Created by Tomas Adam on 26/5/17.
+//  Copyright © 2019 Kosice. All rights reserved.
 //
 
 import Darwin
